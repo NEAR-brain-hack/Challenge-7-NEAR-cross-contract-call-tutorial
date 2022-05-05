@@ -1,0 +1,5 @@
+message-contract/target/*
+message-contract/Cargo.lock
+service-contract/target/*
+service-contract/Cargo.lock
+out/*
